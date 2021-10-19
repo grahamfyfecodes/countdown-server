@@ -10,7 +10,6 @@ public class Message {
         this.text = text;
     }
 
-
     public String getFrom() {
         return from;
     }
